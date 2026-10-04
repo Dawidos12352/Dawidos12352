@@ -1,9 +1,9 @@
 
 # Hello everyone! 👋🏼
 
-I'm Dawid, Junior Fullstack Developer 
+I'm Dawid, Fullstack Developer /  MID Cybersecurity
 
-I have always been interested in programming and cybersecurity. However, it was not until 2022 that I took significant steps towards IT. I started my journey with the GoIT full-stack developer programming course. Currently, I am a graduate of the above-mentioned school and I am looking for my first job in IT. I invite you to view the profile.
+I have always been interested in programming and cybersecurity. In 2022 that I took significant steps towards IT. I started my journey with the GoIT full-stack developer programming course. Currently, I am a graduate of the above-mentioned school however working in Cybersecurity industry. I invite you to view the profile.
 
 ### I use technologies such as
 
